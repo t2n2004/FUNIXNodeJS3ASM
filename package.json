@@ -1,0 +1,21 @@
+{
+  "name": "funixnodejs3asm",
+  "version": "1.0.0",
+  "description": "Compete Node.js Guide",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t2n2004/FUNIXNodeJS3ASM.git"
+  },
+  "author": "t2n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t2n2004/FUNIXNodeJS3ASM/issues"
+  },
+  "homepage": "https://github.com/t2n2004/FUNIXNodeJS3ASM#readme"
+}

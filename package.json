@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/t2n2004/FUNIXNodeJS3ASM/issues"
   },
-  "homepage": "https://github.com/t2n2004/FUNIXNodeJS3ASM#readme"
+  "homepage": "https://github.com/t2n2004/FUNIXNodeJS3ASM#readme",
+  "dependencies": {
+    "nodemon": "^1.18.3"
+  }
 }
